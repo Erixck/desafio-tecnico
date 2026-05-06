@@ -1,0 +1,15 @@
+C:\Users\Alunos\Desktop\desafio-tecnico\desafio_tecnico\bin\Debug\net9.0\desafio_tecnico.exe
+C:\Users\Alunos\Desktop\desafio-tecnico\desafio_tecnico\bin\Debug\net9.0\desafio_tecnico.deps.json
+C:\Users\Alunos\Desktop\desafio-tecnico\desafio_tecnico\bin\Debug\net9.0\desafio_tecnico.runtimeconfig.json
+C:\Users\Alunos\Desktop\desafio-tecnico\desafio_tecnico\bin\Debug\net9.0\desafio_tecnico.dll
+C:\Users\Alunos\Desktop\desafio-tecnico\desafio_tecnico\bin\Debug\net9.0\desafio_tecnico.pdb
+C:\Users\Alunos\Desktop\desafio-tecnico\desafio_tecnico\obj\Debug\net9.0\desafio_tecnico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alunos\Desktop\desafio-tecnico\desafio_tecnico\obj\Debug\net9.0\desafio_tecnico.AssemblyInfoInputs.cache
+C:\Users\Alunos\Desktop\desafio-tecnico\desafio_tecnico\obj\Debug\net9.0\desafio_tecnico.AssemblyInfo.cs
+C:\Users\Alunos\Desktop\desafio-tecnico\desafio_tecnico\obj\Debug\net9.0\desafio_tecnico.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\Desktop\desafio-tecnico\desafio_tecnico\obj\Debug\net9.0\desafio_tecnico.sourcelink.json
+C:\Users\Alunos\Desktop\desafio-tecnico\desafio_tecnico\obj\Debug\net9.0\desafio_tecnico.dll
+C:\Users\Alunos\Desktop\desafio-tecnico\desafio_tecnico\obj\Debug\net9.0\refint\desafio_tecnico.dll
+C:\Users\Alunos\Desktop\desafio-tecnico\desafio_tecnico\obj\Debug\net9.0\desafio_tecnico.pdb
+C:\Users\Alunos\Desktop\desafio-tecnico\desafio_tecnico\obj\Debug\net9.0\desafio_tecnico.genruntimeconfig.cache
+C:\Users\Alunos\Desktop\desafio-tecnico\desafio_tecnico\obj\Debug\net9.0\ref\desafio_tecnico.dll
